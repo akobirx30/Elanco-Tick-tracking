@@ -1,0 +1,1 @@
+{ "name": "tickwatch-uk", "private": true, "scripts": { "server": "node server/index.mjs" } }
